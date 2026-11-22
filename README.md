@@ -12,6 +12,8 @@ SC-NC-BRIDGES — repository foundation
 
 SC-NC Bridges is being built as the bridge layer split out of SC-NeuroCore: the NIR exchange bundles that carry spiking networks to and from other frameworks, the adapters that measure what an exchange loses, and the import of domain models. It imports SC-NC Core, SC-NC Catalogue, SC-NC Engine, SC-NC Data, SC-NC Compiler and SC-NC Hardware. This checkout contains repository validation tooling and documentation only. Full foundation qualification is in progress. There is no installed NIR bridge, framework adapter, model importer or qualified record schema.
 
+SC-NC Bridges is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 **What does not exist yet:**
 - any code moved from SC-NeuroCore;
 - a registered runtime record schema;
