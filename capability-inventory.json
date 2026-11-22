@@ -1,0 +1,12 @@
+{
+  "capabilities": [],
+  "claims": [],
+  "evidence_maturity": "architecture_only",
+  "lifecycle": "local_scaffold",
+  "qualified_owned_schema_ids": [],
+  "repository_name": "SC-NC-BRIDGES",
+  "source_metadata": {
+    "path": "repository-domain.json",
+    "sha256": "dd13e3e919a67478a6c5a2f15cc778280404b925e682029e6f7d4e9cfc1b77ff"
+  }
+}
